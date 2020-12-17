@@ -14,7 +14,7 @@
   "main": "./faye-redis",
   "dependencies": {
     "bluebird": "^3.1.1",
-    "ioredis": "^1.13.1"
+    "ioredis": "^4.19.4"
   },
   "devDependencies": {
     "jstest": ""
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suprememoocow/faye-ioredis.git"
+    "url": "git+https://github.com/orianbsilva/faye-ioredis.git"
   },
   "bugs": {
-    "url": "https://github.com/suprememoocow/faye-ioredis/issues"
+    "url": "https://github.com/orianbsilva/faye-ioredis/issues"
   },
-  "homepage": "https://github.com/suprememoocow/faye-ioredis#readme"
+  "homepage": "https://github.com/orianbsilva/faye-ioredis#readme"
 }
